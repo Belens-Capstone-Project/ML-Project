@@ -1,28 +1,31 @@
-Nama Produk,Lemak total/Total Fat,Lemak Jenuh/Saturated Fat,Kolesterol (mg),Protein,Karbohidrat Total/Total Carbohydrate,Gula/Sugar,Garam (Natrium)Salt (Sodium) (mg),Energi Total/Total Energy (kkal/kcal),Energi dari Lemak/Energy from Fat,Energi dari Lemah Jenuh/Energy from Saturated Fat,Takaran Saji
-ABC Kopi Susu,2.5,2.5,0,1,23,17,105,120,0,0,200
-BearBrand,7,5,25,6,9,0,115,120,60,0,189
-Benecol Lychee 100ml,,,,,,,,,,,
-Cimory Bebas Laktosa 250ml,4,"2,5",2,4,7,5,65,80,35,20,125
-Cimory Susu Coklat Cashew,0,4,0,6,32,20,130,220,0,0,250
-Cimory Yogurt Strawberry,3.5,2,3,4,37,25,90,200,30,15,240
-Cola-Cola 390ml,0,0,0,0,27,27,15,100,0,0,250
-Fanta Strawberry 390ml,0,0,0,0,12,11,25,50,0,0,250
-Floridina 350ml,0,0,0,0,22,21,25,90,0,0,175
-Fruit Tea Freeze 350ml,0,0,0,0,15,15,60,60,0,0,250
-Hydro Coco Original 250ml,0,0,0,0,15,7,105,60,0,0,250
-Ichitan Thai Green Tea,5,5,4,2,21,14,140,130,45,45,250
-Larutan Penyegar Rasa Jambu,,,,,,,,,,,
-Mizone 500ml,0,0,0,0,8,8,65,35,0,0,250
-NU Green Tea Yogurt,0,0,0,0,25,20,20,200,0,0,200
-Nutri Boost Orange Flavour 250ml,2,1,7,1,26,22,126,120,15,0,250
-Pepsi Blue 300ml,0,0,0,0,38,38,25,150,0,0,300
-Pocari Sweat 500ml,0,0,0,0,30,28,120,120,0,0,500
-Sprite 390ml,0,0,0,0,25,25,40,100,0,0,250
-Tebs Sparkling 330ml,0,0,0,0,34,31,75,130,0,0,330
-Teh Kotak 200ml,0,0,0,0,17,17,10,70,0,0,200
-Teh Pucuk Harum,0,0,0,0,12,12,10,45,0,0,500
-Tehbotol Sosro 250ml,0,0,0,0,15,15,25,60,0,0,200
-Ultra Milk Coklat Ultrajaya 200ml,4,2.5,8,6,22,14,45,150,35,0,200
-Ultramilk Fullcream 250ml,8,4,20,8,13,0,50,160,70,0,250
-Yakult,"0,1","0,1",0,"0,8",11.5,11.2,10.1,210,0,0,65
-You C 1000 Orange,0,0,0,0,20,20,60,80,0,0,140
+nama_produk,total_lemak,lemak_jenuh,kolestrol,protein,karbohidrat,gula,garam,fiber,buah_dan_sayuran,total_energi,takaran_saji,energi/100ml,lemak_jenuh/100ml,gula/100ml,garam/100ml,protein/100ml,fiber/100ml,buah_dan_sayuran/100ml,poin_energi,poin_gula,poin_lemak_jenuh,poin_garam,poin_protein,poin_fiber,poin_buah_dan_sayuran,poin_negatif,poin_positif,grade_point,grade,jumlah_batasan_konsumsi/hari,rekomendasi
+ABC Kopi Susu,2.4,2.5,0,1,23,17,105,0,0,120,200,60,1.3,8.5,52.5,0.5,0,0,5,7,1,0,0,0,0,13,0,13,E,1,"Batasi konsumsi hingga 1 sajian per hari, karena gula berlebih dapat menyebabkan obesitas, diabetes, masalah jantung, dan kecanduan gula. Pilih alternatif yang lebih sehat dan rendah gula untuk mengurangi risiko kesehatan."
+BearBrand,7,5,25,6,9,9,115,0,0,120,189,63.5,2.6,4.8,60.8,3.2,0,0,5,3,2,0,7,0,0,10,7,3,C,1,"Disarankan untuk membatasi konsumsi hingga 1 sajian per hari, karena konsumsi gula berlebih dapat menyebabkan masalah kesehatan jangka panjang seperti gangguan metabolik, obesitas, dan peningkatan risiko diabetes."
+Benecol Lychee 100ml,2,0,0,1,8,6,55,0,0,60,100,60,0,6,55,1,0,0,5,4,0,0,0,0,0,9,0,9,D,4,"Disarankan untuk membatasi konsumsi hingga 4 sajian per hari, karena konsumsi gula berlebih dapat menyebabkan masalah kesehatan jangka panjang seperti gangguan metabolik, obesitas, dan peningkatan risiko diabetes."
+Cimory Bebas Laktosa 250ml,4,2.5,2,4,7,5,65,0,0,80,125,64,2,4,52,3.2,0,0,5,2,1,0,7,0,0,8,7,1,B,5,"Disarankan untuk membatasi konsumsi hingga 5 sajian per hari, karena konsumsi gula berlebih dapat menyebabkan masalah kesehatan jangka panjang seperti gangguan metabolik, obesitas, dan peningkatan risiko diabetes."
+Cimory Susu Coklat Cashew,0,4,0,6,32,20,130,0,0,220,250,88,1.6,8,52,2.4,0,0,9,6,1,0,4,0,0,16,4,12,E,1,"Batasi konsumsi hingga 1 sajian per hari, karena gula berlebih dapat menyebabkan obesitas, diabetes, masalah jantung, dan kecanduan gula. Pilih alternatif yang lebih sehat dan rendah gula untuk mengurangi risiko kesehatan."
+Cimory Yogurt Strawberry,3.5,2,3,4,37,25,90,0,0,200,240,83.3,0.8,10.4,37.5,1.7,0,0,8,9,0,0,2,0,0,17,2,15,E,1,"Batasi konsumsi hingga 1 sajian per hari, karena gula berlebih dapat menyebabkan obesitas, diabetes, masalah jantung, dan kecanduan gula. Pilih alternatif yang lebih sehat dan rendah gula untuk mengurangi risiko kesehatan."
+Cola-Cola 390ml,0,0,0,0,27,27,15,0,0,100,250,40,0,10.8,6,0,0,0,2,9,0,0,0,0,0,11,0,11,E,1,"Batasi konsumsi hingga 1 sajian per hari, karena gula berlebih dapat menyebabkan obesitas, diabetes, masalah jantung, dan kecanduan gula. Pilih alternatif yang lebih sehat dan rendah gula untuk mengurangi risiko kesehatan."
+Fanta Strawberry 390ml,0,0,0,0,12,11,25,0,0,50,250,20,0,4.4,10,0,0,0,1,3,0,0,0,0,0,4,0,4,C,2,"Disarankan untuk membatasi konsumsi hingga 2 sajian per hari, karena konsumsi gula berlebih dapat menyebabkan masalah kesehatan jangka panjang seperti gangguan metabolik, obesitas, dan peningkatan risiko diabetes."
+Floridina 350ml,0,0,0,0,22,21,25,0,0,90,175,51.4,0,12,14.3,0,0,0,4,10,0,0,0,0,0,14,0,14,E,1,"Batasi konsumsi hingga 1 sajian per hari, karena gula berlebih dapat menyebabkan obesitas, diabetes, masalah jantung, dan kecanduan gula. Pilih alternatif yang lebih sehat dan rendah gula untuk mengurangi risiko kesehatan."
+Fruit Tea Freeze 350ml,0,0,0,0,15,15,60,0,0,60,250,24,0,6,24,0,0,0,1,4,0,0,0,0,0,5,0,5,C,2,"Disarankan untuk membatasi konsumsi hingga 2 sajian per hari, karena konsumsi gula berlebih dapat menyebabkan masalah kesehatan jangka panjang seperti gangguan metabolik, obesitas, dan peningkatan risiko diabetes."
+Garantea,0,0,0,0,6,0,0,0,0,0,200,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,B,0,"Aman untuk dikonsumsi setiap hari tanpa khawatir kelebihan gula. Minuman dengan kandungan gula rendah membantu menjaga kesehatan tubuh tanpa meningkatkan risiko obesitas, diabetes, atau masalah jantung."
+Golda Cappucino,5,5,0,2,31,19,80,0,0,180,200,90,2.5,9.5,40,1,0,0,9,8,2,0,0,0,0,19,0,19,E,1,"Batasi konsumsi hingga 1 sajian per hari, karena gula berlebih dapat menyebabkan obesitas, diabetes, masalah jantung, dan kecanduan gula. Pilih alternatif yang lebih sehat dan rendah gula untuk mengurangi risiko kesehatan."
+Hydro Coco Original 250ml,0,0,0,0,15,7,105,0,0,60,250,24,0,2.8,42,0,0,0,1,1,0,0,0,0,0,2,0,2,C,4,"Disarankan untuk membatasi konsumsi hingga 4 sajian per hari, karena konsumsi gula berlebih dapat menyebabkan masalah kesehatan jangka panjang seperti gangguan metabolik, obesitas, dan peningkatan risiko diabetes."
+Ichitan Thai Green Tea,5,5,4,2,21,14,140,0,0,130,250,52,2,5.6,56,0.8,0,0,4,4,1,0,0,0,0,9,0,9,D,2,"Disarankan untuk membatasi konsumsi hingga 2 sajian per hari, karena konsumsi gula berlebih dapat menyebabkan masalah kesehatan jangka panjang seperti gangguan metabolik, obesitas, dan peningkatan risiko diabetes."
+Larutan Penyegar Rasa Jambu,0,0,0,0,13,13,0,0,0,50,100,50,0,13,0,0,0,0,3,10,0,0,0,0,0,13,0,13,E,2,"Batasi konsumsi hingga 2 sajian per hari, karena gula berlebih dapat menyebabkan obesitas, diabetes, masalah jantung, dan kecanduan gula. Pilih alternatif yang lebih sehat dan rendah gula untuk mengurangi risiko kesehatan."
+Mizone 500ml,0,0,0,0,8,8,65,0,0,35,250,14,0,3.2,26,0,0,0,1,2,0,0,0,0,0,3,0,3,C,3,"Disarankan untuk membatasi konsumsi hingga 3 sajian per hari, karena konsumsi gula berlebih dapat menyebabkan masalah kesehatan jangka panjang seperti gangguan metabolik, obesitas, dan peningkatan risiko diabetes."
+NU Green Tea Yogurt,0,0,0,0,25,20,20,0,0,200,200,100,0,10,10,0,0,0,10,8,0,0,0,0,0,18,0,18,E,1,"Batasi konsumsi hingga 1 sajian per hari, karena gula berlebih dapat menyebabkan obesitas, diabetes, masalah jantung, dan kecanduan gula. Pilih alternatif yang lebih sehat dan rendah gula untuk mengurangi risiko kesehatan."
+Nutri Boost Orange Flavour 250ml,2,1,7,1,26,22,126,0,0,120,250,48,0.4,8.8,50.4,0.4,0,0,3,7,0,0,0,0,0,10,0,10,E,1,"Batasi konsumsi hingga 1 sajian per hari, karena gula berlebih dapat menyebabkan obesitas, diabetes, masalah jantung, dan kecanduan gula. Pilih alternatif yang lebih sehat dan rendah gula untuk mengurangi risiko kesehatan."
+Oatside Cokelat,6,1,2,3,25,10,90,0,0,170,200,85,0.5,5,45,1.5,0,0,9,3,0,0,1,0,0,12,1,11,E,3,"Disarankan untuk membatasi konsumsi hingga 3 sajian per hari, karena konsumsi gula berlebih dapat menyebabkan masalah kesehatan jangka panjang seperti gangguan metabolik, obesitas, dan peningkatan risiko diabetes."
+Pepsi Blue Kaleng,0,0,0,0,38,38,25,0,0,150,300,50,0,12.7,8.3,0,0,0,3,10,0,0,0,0,0,13,0,13,E,1,"Batasi konsumsi hingga 1 sajian per hari, karena gula berlebih dapat menyebabkan obesitas, diabetes, masalah jantung, dan kecanduan gula. Pilih alternatif yang lebih sehat dan rendah gula untuk mengurangi risiko kesehatan."
+Pocari Sweat 500ml,0,0,0,0,30,28,120,0,0,120,500,24,0,5.6,24,0,0,0,1,4,0,0,0,0,0,5,0,5,C,1,"Disarankan untuk membatasi konsumsi hingga 1 sajian per hari, karena konsumsi gula berlebih dapat menyebabkan masalah kesehatan jangka panjang seperti gangguan metabolik, obesitas, dan peningkatan risiko diabetes."
+Sprite 390ml,0,0,0,0,25,25,40,0,0,100,250,40,0,10,16,0,0,0,2,8,0,0,0,0,0,10,0,10,E,1,"Batasi konsumsi hingga 1 sajian per hari, karena gula berlebih dapat menyebabkan obesitas, diabetes, masalah jantung, dan kecanduan gula. Pilih alternatif yang lebih sehat dan rendah gula untuk mengurangi risiko kesehatan."
+Tebs Sparkling 330ml,0,0,0,0,34,31,75,0,0,130,330,39.4,0,9.4,22.7,0,0,0,2,8,0,0,0,0,0,10,0,10,E,1,"Batasi konsumsi hingga 1 sajian per hari, karena gula berlebih dapat menyebabkan obesitas, diabetes, masalah jantung, dan kecanduan gula. Pilih alternatif yang lebih sehat dan rendah gula untuk mengurangi risiko kesehatan."
+Teh Kotak 200ml,0,0,0,0,17,17,10,0,0,70,200,35,0,8.5,5,0,0,0,2,7,0,0,0,0,0,9,0,9,D,1,"Batasi konsumsi hingga 1 sajian per hari, karena gula berlebih dapat menyebabkan obesitas, diabetes, masalah jantung, dan kecanduan gula. Pilih alternatif yang lebih sehat dan rendah gula untuk mengurangi risiko kesehatan."
+Teh Pucuk Harum,0,0,0,0,12,12,10,0,0,45,500,9,0,2.4,2,0,0,0,1,1,0,0,0,0,0,2,0,2,C,2,"Aman untuk dikonsumsi setiap hari tanpa khawatir kelebihan gula. Minuman dengan kandungan gula rendah membantu menjaga kesehatan tubuh tanpa meningkatkan risiko obesitas, diabetes, atau masalah jantung. Meskipun begitu sebaiknya batasi konsumsi hingga 2 sajian perhari agar batasan kalori tetap terjaga."
+Tehbotol Sosro 250ml,0,0,0,0,15,15,25,0,0,60,200,30,0,7.5,12.5,0,0,0,2,6,0,0,0,0,0,8,0,8,D,2,"Disarankan untuk membatasi konsumsi hingga 2 sajian per hari, karena konsumsi gula berlebih dapat menyebabkan masalah kesehatan jangka panjang seperti gangguan metabolik, obesitas, dan peningkatan risiko diabetes."
+Ultra Milk Coklat Ultrajaya 200ml,4,2.5,8,6,22,14,45,0,0,150,200,75,1.3,7,22.5,3,0,0,7,5,1,0,6,0,0,13,6,7,D,2,"Disarankan untuk membatasi konsumsi hingga 2 sajian per hari, karena konsumsi gula berlebih dapat menyebabkan masalah kesehatan jangka panjang seperti gangguan metabolik, obesitas, dan peningkatan risiko diabetes."
+Ultramilk Fullcream 250ml,8,4,20,8,13,8,50,0,0,160,250,64,1.6,3.2,20,3.2,0,0,5,2,1,0,7,0,0,8,7,1,B,2,"Disarankan untuk membatasi konsumsi hingga 2 sajian per hari, karena konsumsi gula berlebih dapat menyebabkan masalah kesehatan jangka panjang seperti gangguan metabolik, obesitas, dan peningkatan risiko diabetes."
+Yakult,0.1,0.1,0,0,11.5,11.5,10.1,0,0,210,65,210,0.1,11.5,10.1,0,0,0,10,10,0,0,0,0,0,20,0,20,E,2,"Batasi konsumsi hingga 2 sajian per hari, karena gula berlebih dapat menyebabkan obesitas, diabetes, masalah jantung, dan kecanduan gula. Pilih alternatif yang lebih sehat dan rendah gula untuk mengurangi risiko kesehatan."
+You C 1000 Orange,0,0,0,0,20,20,60,0,0,80,140,57.1,0,14.3,42.9,0,0,0,4,10,0,0,0,0,0,14,0,14,E,1,"Batasi konsumsi hingga 1 sajian per hari, karena gula berlebih dapat menyebabkan obesitas, diabetes, masalah jantung, dan kecanduan gula. Pilih alternatif yang lebih sehat dan rendah gula untuk mengurangi risiko kesehatan."
