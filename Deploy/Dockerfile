@@ -1,9 +1,11 @@
-FROM python:3.12
+FROM python:3.12-slim
 
-COPY . /app
 WORKDIR /app
-RUN pip3 install -r requirements.txt
 
-ENV FLASK_APP=app.py
+COPY . .
 
-CMD ["python3", "-m", "flask", "run", "--host=0.0.0.0"]
+RUN pip install --no-cache-dir -r requirements.txt
+
+EXPOSE 5000
+
+CMD ["python", "app.py"]
