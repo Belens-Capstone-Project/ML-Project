@@ -1,5 +1,6 @@
-# README: Proyek Machine Learning Tim
+# README: Machine Learning Team Project
 
-## Deskripsi Proyek
-**Nama Proyek**: [Masukkan nama proyek Anda]  
-Proyek ini bertujuan untuk [jelaskan tujuan proyek secara singkat, misalnya "mengembangkan model deteksi objek untuk logo minuman pada kemasan"]. Proyek ini dibuat oleh tim [nama tim] sebagai bagian dari [program/kegiatan, seperti capstone project Bangkit 2024].
+## Project Description
+**Project Name**: Belens 
+This project aims to [briefly explain the project goal, e.g., "develop an object detection model for beverage logos on packaging"]. This project is created by the [team name] as part of [program/activity, e.g., Bangkit 2024 capstone project].
+
