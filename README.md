@@ -17,13 +17,13 @@ The primary model for beverage logo recognition utilizes a custom Convolutional 
 ## Performance
 
 ### Accuracy
-![ACCURACY](https://github.com/user-attachments/assets/33d486f1-2cc9-40f0-8b3b-d8d61014cef4)
+<img src="https://github.com/user-attachments/assets/33d486f1-2cc9-40f0-8b3b-d8d61014cef4" alt="ACCURACY" width="300"/>
 
 ### Loss
-![LOSS](https://github.com/user-attachments/assets/ac0b9895-e17d-4b40-9c1f-d6cd146630d5)
+<img src="https://github.com/user-attachments/assets/ac0b9895-e17d-4b40-9c1f-d6cd146630d5" alt="LOSS" width="300"/>
 
 ### Classification Report
-![KLASIFIKASIREPORT](https://github.com/user-attachments/assets/b3685d6d-3e05-4201-8567-e8f2b9f16d74)
+<img src="https://github.com/user-attachments/assets/b3685d6d-3e05-4201-8567-e8f2b9f16d74" alt="KLASIFIKASIREPORT" width="300"/>
 
 ## Run The Model
 
