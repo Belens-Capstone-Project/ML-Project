@@ -11,8 +11,7 @@ The dataset includes a diverse collection of images featuring various packaged b
 Our dataset comprises a total of **30 products**, with **at least 40 images per product**, annotated with bounding boxes for accurate logo detection. This well-curated dataset ensures robust training and evaluation of the Convolutional Neural Network (CNN) model.
 
 ## Architecture
-The primary model for beverage logo recognition utilizes a custom Convolutional Neural Network (CNN) architecture. The input images are resized to **120 x 120 x 3** to accommodate a smaller, more efficient model while maintaining performance. The model architecture includes several convolutional layers followed by pooling layers, and a few dense layers for final class![TensorFlow](https://github.com/user-attachments/assets/84024a21-a05f-4605-88d8-d4f390622eea)
-ification.
+The primary model for beverage logo recognition utilizes a custom Convolutional Neural Network (CNN) architecture. The input images are resized to **120 x 120 x 3** to accommodate a smaller, more efficient model while maintaining performance. The model architecture includes several convolutional layers followed by pooling layers, and a few dense layers for final classification.
 
 ## Performance
 
