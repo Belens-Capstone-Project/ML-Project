@@ -1,6 +1,6 @@
-#Machine Learning Team 
+#M achine Learning Team 
 
-##Project Name : Belens 
+## Project Name : Belens 
 
 ## Overview
 This repository contains the code for **Belens**, a health-focused application aimed at assisting users in Indonesia in monitoring sugar consumption from packaged beverages. The project utilizes TensorFlow and lightweight Convolutional Neural Networks (CNN) for accurate logo recognition on beverage packaging.
