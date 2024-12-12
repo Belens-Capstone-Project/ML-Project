@@ -1,5 +1,6 @@
 # Machine Learning Team 
-![TensorFlow](https://github.com/user-attachments/assets/670f65bd-9fea-4912-9a38-08267c202c3a)
+<img src="https://github.com/user-attachments/assets/670f65bd-9fea-4912-9a38-08267c202c3a" alt="TensorFlow" width="200"/>
+
 
 ## Project Name : Belens 
 
