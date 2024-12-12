@@ -1,4 +1,4 @@
-#M achine Learning Team 
+# Machine Learning Team 
 
 ## Project Name : Belens 
 
