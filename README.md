@@ -11,6 +11,17 @@ This repository contains the code for **Belens**, a health-focused application a
 The dataset includes a diverse collection of images featuring various packaged beverages available in Indonesia. Preprocessing steps, such as resizing, normalization, and augmentation, are implemented to ensure optimal model training and generalization.
 Our dataset comprises a total of **30 products**, with **at least 40 images per product**, annotated with bounding boxes for accurate logo detection. This well-curated dataset ensures robust training and evaluation of the Convolutional Neural Network (CNN) model.
 
+### Example Samples from Dataset
+
+Here are several raw examples taken directly from the dataset folder:
+
+<p align="center">
+  <img src="/Example Dataset/BearBrand4.jpg" width="180"/>
+  <img src="/Example Dataset/BenecolLeci1.jpg" width="180"/>
+  <img src="/Example Dataset/CimoryCashew1.jpg" width="180"/>
+  <img src="/Example Dataset/cola-cola (4).jpg" width="180"/>
+</p>
+
 ## Architecture
 The primary model for beverage logo recognition utilizes a custom Convolutional Neural Network (CNN) architecture. The input images are resized to **120 x 120 x 3** to accommodate a smaller, more efficient model while maintaining performance. The model architecture includes several convolutional layers followed by pooling layers, and a few dense layers for final classification.
 
